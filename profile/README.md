@@ -81,8 +81,10 @@ Below is a curated list of the most important repositories across services, fron
 
 We use [Conventional Commits](https://www.conventionalcommits.org/) and follow a standard branching model:
 - `main`: Production-ready code
-- `dev`: Latest development
+- `develop`: Latest development
+- `release/*`: Release branches
 - `feature/*`: New feature branches
+- `hotfix/*`: Bugfix branches
 - `fix/*`: Bugfix branches
 
 🔒 Many repositories are private. Access is granted based on project scope and role.
