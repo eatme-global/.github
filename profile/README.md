@@ -1,8 +1,8 @@
 # Dinetap
 
-Welcome to **DineTap's GitHub** – the central hub for our engineering projects that power seamless dining and payment experiences for restaurants and their guests.
+Welcome to **Dinetap's GitHub** – the central hub for our engineering projects that power seamless dining and payment experiences for restaurants and their guests.
 
-DineTap provides a modern ecosystem for:
+Dinetap provides a modern ecosystem for:
 - 💳 **In-Store & Online Payments**
 - 🖥️ **Cloud POS & Ordering**
 - 🧾 **Invoice Automation & Reporting**
@@ -21,7 +21,7 @@ Below is a curated list of the most important repositories across services, fron
 |------------|-------------|
 | [`pos-app`](https://github.com/eatme-global/pos-app) | React Native application for the Point-of-Sale system |
 | [`backoffice-web`](https://github.com/eatme-global/backoffice-web) | Web application for restaurant back-office users |
-| [`admin-web`](https://github.com/eatme-global/admin-web) | Web interface for DineTap's internal admin team |
+| [`admin-web`](https://github.com/eatme-global/admin-web) | Web interface for Dinetap's internal admin team |
 | [`dashboard-app`](https://github.com/eatme-global/dashboard-app) | UI dashboard for analytics and reporting |
 | [`payments-app`](https://github.com/eatme-global/payments-app) | React Native app for payment workflows |
 | [`restaurant-owners-app`](https://github.com/eatme-global/restaurant-owners-app) | Dashboard app for restaurant partners |
@@ -97,4 +97,4 @@ We use [Conventional Commits](https://www.conventionalcommits.org/) and follow a
 
 ---
 
-> © 2025 DineTap Technologies. All rights reserved.
+> © 2025 Dinetap Technologies. All rights reserved.
