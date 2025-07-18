@@ -84,7 +84,7 @@ We use [Conventional Commits](https://www.conventionalcommits.org/) and follow a
 - `develop`: Latest development
 - `release/*`: Release branches
 - `feature/*`: New feature branches
-- `hotfix/*`: Bugfix branches
+- `hotfix/*`: Hotfix branches
 - `fix/*`: Bugfix branches
 
 🔒 Many repositories are private. Access is granted based on project scope and role.
