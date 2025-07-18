@@ -1,4 +1,4 @@
-# DineTap · GitHub Organization
+# Dinetap
 
 Welcome to **DineTap's GitHub** – the central hub for our engineering projects that power seamless dining and payment experiences for restaurants and their guests.
 
