@@ -99,4 +99,4 @@ We use [Conventional Commits](https://www.conventionalcommits.org/) and follow a
 
 ---
 
-> © 2025 Dinetap Technologies. All rights reserved.
+> Copyright © Dinetap Holdings PTE Ltd. 2025. All rights reserved.
